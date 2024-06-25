@@ -65,7 +65,7 @@ print(" - End with flush")
 
 These examples illustrate how to use each parameter of the `print()` function in Python to control how and where the output is printed.
 
-```
+```Python
 # print("Loading", end="")
 # for i in range(100):
 #     print(".", end="", flush=True)
