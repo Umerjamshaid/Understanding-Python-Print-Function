@@ -1,10 +1,5 @@
 <h1 align="center">Hello, I'm UMERJAMSHAID! 👋</h1>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Umerjamshaid&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=Umerjamshaid&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Umerjamshaid&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=true" height="150" alt="languages graph"  />
-</div>
 
 ## About Me
 I'm a passionate software developer with a love for building innovative solutions that make a positive impact. I thrive on challenges and enjoy diving deep into complex problems to find creative solutions. Beyond coding, I have a strong interest in:
@@ -54,9 +49,11 @@ I'm a passionate software developer with a love for building innovative solution
   <a href="https://x.com/Umerjamshaidr" target="_blank"><img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Twitter" /></a>
 </p>
 
-## GitHub Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=UMERJAMSHAID&show_icons=true&theme=dark)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=UMERJAMSHAID&theme=dark)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Umerjamshaid&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=Umerjamshaid&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Umerjamshaid&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=true" height="150" alt="languages graph"  />
+</div>
 
 ## 🐍 Snake Game
 ![Snake animation](https://github.com/Umerjamshaid/Umerjamshaid/blob/output/snake.svg)
