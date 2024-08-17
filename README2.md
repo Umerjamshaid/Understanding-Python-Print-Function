@@ -49,6 +49,7 @@ I'm a passionate software developer with a love for building innovative solution
   <a href="https://x.com/Umerjamshaidr" target="_blank"><img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Twitter" /></a>
 </p>
 
+## Status 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Umerjamshaid&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=Umerjamshaid&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
@@ -61,6 +62,21 @@ I'm a passionate software developer with a love for building innovative solution
 <div align="center">
   <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=@Fusheng&theme=dark" alt="Layout with last medium posts"  />
 </div>
+-----
+<img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31pp35u7iyrpbyeugtthvchqvfz4&cover_image=true&theme=novatorem&show_offline=true&background_color=000000&interchange=false&bar_color=2f322f&bar_color_cover=false" align="center" style="width: 100%" />  
+
+<br/>  
+
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=rishavanand&&style=flat-square" align="center" />
+</div>  
+  
+
+<br/>  
+
+<br />
+
+----
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=UMERJAMSHAID&style=flat-square" alt="Profile Views" />
